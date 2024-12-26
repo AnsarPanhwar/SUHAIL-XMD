@@ -1,6 +1,6 @@
 # PANHWAR-MD
 <p align="center">
-<a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/MNpy6DM/Manul-Ofc-X.jpg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
